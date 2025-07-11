@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+
+# Environment
+.env
+.env.*
+!*.env.example
+
+# Streamlit cache
+.streamlit/
+.cache/
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*.swp
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.old
+*.orig
+*.temp
+*.~*
+
+# Output/image folders
+completed/
+output/
+results/
+*.zip
+
+# VS Code
+.vscode/
