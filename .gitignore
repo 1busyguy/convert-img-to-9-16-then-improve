@@ -43,6 +43,7 @@ completed/
 output/
 results/
 *.zip
+venv
 
 # VS Code
 .vscode/
